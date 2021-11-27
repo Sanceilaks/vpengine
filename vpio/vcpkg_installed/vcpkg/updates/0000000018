@@ -1,0 +1,10 @@
+Package: spdlog
+Version: 1.8.5
+Port-Version: 1
+Depends: fmt, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 4a55ded7edde73e56d1ce865f70af4bfb4b4a099
+Description: Very fast, header only, C++ logging library
+Type: Port
+Status: install ok half-installed

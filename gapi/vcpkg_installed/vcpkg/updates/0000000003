@@ -1,0 +1,10 @@
+Package: glew
+Version: 2.1.0
+Port-Version: 10
+Depends: opengl
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d0e309f1acc73d3a152005582f6f7744e902859d
+Description: The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library.
+Type: Port
+Status: install ok installed

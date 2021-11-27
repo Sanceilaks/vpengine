@@ -1,0 +1,7 @@
+{
+  "name": "vpengine-gapi",
+  "version-string": "0.1",
+  "dependencies": [
+    "glew"
+  ]
+}
